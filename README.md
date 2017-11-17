@@ -2,9 +2,9 @@
 
 Soy una estudiante del Gregorio Fernandez y me gustan demasiado los animales, mi animal favorito es el gato, aunque me gustan mucho todos los felinos. En esta pagina voy hablar sobre los gatos.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Me parecen unos animales muy curiosos e interesantes, aunque mucha gente dice que no son muy buenos para tenerlos de animales de compañia, yo pienso que son estupendos para tenerlos como mascota.
 
-### En esta pagina se va hablar sobre gatos.
+### Curiosidades sobre los gatos.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
