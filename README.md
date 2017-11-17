@@ -1,6 +1,6 @@
 ## Soy Nata 
 
-You can use the [editor on GitHub](https://github.com/NatalyGS22/gatitos/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Soy una estudiante del Grgorio Fernandez y me gustan demasiado los animales, mi animal favorito es el gato, aunque me gustan mucho todos los felinos. En esta pagina voy hablar sobre los gatos.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
